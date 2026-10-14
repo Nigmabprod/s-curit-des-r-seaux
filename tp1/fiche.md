@@ -7,3 +7,4 @@ Ce qui ne devrait pas être visible est le formattage.
 Ainsi que des mot de passe wifi et probablement d'autres choses sur la photo.
 Un pense bête qui devait rester privé avec un token et des indications sur où chercher.
 Un fichier donnant accès au VPN de l'entreprise.
+Des photos d'un bureau de l'entreprise, adresse de la photo. 50 deg 40' 9.84" N, 4 deg 36' 51.84" E
